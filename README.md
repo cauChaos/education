@@ -1,1 +1,1 @@
-# ducation
+# education
