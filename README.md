@@ -1,1 +1,1 @@
-# EducationN
+# Education
