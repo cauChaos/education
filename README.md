@@ -6,7 +6,7 @@
 
 - start class
 <br>
-https://drive.google.com/open?id=1m-iFUFG5i-d_jrYZQbNigkyTWUYxSqCS
+https://drive.google.com/open?id=1m-iFUFG5i-d_jrYZQbNigkyTWUYxSqCS<br>
 <br>
 <br>
 <br>
@@ -14,7 +14,7 @@ https://drive.google.com/open?id=1m-iFUFG5i-d_jrYZQbNigkyTWUYxSqCS
 
 - basic class
 <br>
-https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT
+https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT<br>
 <br>
 <br>
 <br>
@@ -22,7 +22,7 @@ https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT
 
 - advanced class
 <br>
-https://drive.google.com/open?id=1ztiBfJmFgUVoUQOwqU0hRDBJrT5Smk86
+https://drive.google.com/open?id=1ztiBfJmFgUVoUQOwqU0hRDBJrT5Smk86<br>
 <br>
 <br>
 <br>
