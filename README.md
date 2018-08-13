@@ -6,7 +6,7 @@
 
 - 2nd class
 <br>
-https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT<br>
+https://drive.google.com/open?id=1m-iFUFG5i-d_jrYZQbNigkyTWUYxSqCS<br>
 <br>
 <br>
 <br>
@@ -14,7 +14,7 @@ https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT<br>
 
 - 1st class
 <br>
-https://drive.google.com/open?id=1ztiBfJmFgUVoUQOwqU0hRDBJrT5Smk86<br>
+https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT<br>
 <br>
 <br>
 <br>
