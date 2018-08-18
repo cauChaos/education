@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- class no.2
+- class 2
 <br>
 https://drive.google.com/open?id=1m-iFUFG5i-d_jrYZQbNigkyTWUYxSqCS<br>
 <br>
@@ -12,7 +12,7 @@ https://drive.google.com/open?id=1m-iFUFG5i-d_jrYZQbNigkyTWUYxSqCS<br>
 <br>
 <br>
 
-- class no.1
+- class 1
 <br>
 https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT<br>
 <br>
@@ -20,6 +20,6 @@ https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT<br>
 <br>
 <br>
 
-- class no.0
+- class 0
 <br>
 https://drive.google.com/open?id=1in2WdDE49aeM7yTkGSA-ZyxjHkkYBQoM
