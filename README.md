@@ -23,4 +23,5 @@ SOLUTION : https://github.com/cauchaos/education/tree/2018/2018%203%20Quarter%20
 
 - CLASS 0
 <br>
-TEXTBOOK : https://drive.google.com/open?id=1in2WdDE49aeM7yTkGSA-ZyxjHkkYBQoM
+TEXTBOOK : https://drive.google.com/open?id=1in2WdDE49aeM7yTkGSA-ZyxjHkkYBQoM<br>
+SOLUTION : https://github.com/cauchaos/education/tree/2018/2018%203%20Quarter%20_%20CLASS%200
