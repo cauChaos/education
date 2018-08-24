@@ -7,7 +7,7 @@
 - CLASS 2
 <br>
 TEXTBOOK : https://drive.google.com/open?id=1m-iFUFG5i-d_jrYZQbNigkyTWUYxSqCS<br>
-SOLUTION : https://github.com/cauchaos/education/tree/2018/2018%203%20Quarter%20_%20CLASS%202<br>
+SOLUTION : https://github.com/cauchaos/education/tree/CLASS-2<br>
 <br>
 <br>
 <br>
