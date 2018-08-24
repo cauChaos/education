@@ -15,7 +15,7 @@ SOLUTION : https://github.com/cauchaos/education/tree/CLASS-2<br>
 - CLASS 1
 <br>
 TEXTBOOK : https://drive.google.com/open?id=1XJOhMxZfUm6cQKU271XAIUaiRG7qd1AT<br>
-SOLUTION : https://github.com/cauchaos/education/tree/2018/2018%203%20Quarter%20_%20CLASS%201<br>
+SOLUTION : https://github.com/cauchaos/education/tree/CLASS-1<br>
 <br>
 <br>
 <br>
@@ -24,4 +24,4 @@ SOLUTION : https://github.com/cauchaos/education/tree/2018/2018%203%20Quarter%20
 - CLASS 0
 <br>
 TEXTBOOK : https://drive.google.com/open?id=1in2WdDE49aeM7yTkGSA-ZyxjHkkYBQoM<br>
-SOLUTION : https://github.com/cauchaos/education/tree/2018/2018%203%20Quarter%20_%20CLASS%200
+SOLUTION : https://github.com/cauchaos/education/tree/CLASS-0
